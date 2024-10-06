@@ -92,6 +92,6 @@ router.get('/', async (req, res) => {
          }
         }
     }
-    return await SATHANIC_PAIR_CODE()
+    return await SATHANIC_PAIR_CODE(SATHANIC_MD_dhhsssytwskjsgwudbakagshsgsvsywvvshsjsisvsbzyqpowusxhbzuwh)
 });
 module.exports = router
