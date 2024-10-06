@@ -15,8 +15,5 @@ sathanic md is Multi Device whatsapp bot based on malooty
 <hr>
 
 
-### SETUP SATHAN-MD
 
-1. Scan the QR code
-    <br>
-<a href='https://sathanic666.sathanic.xyz/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+###        BOT COMMING SOON
