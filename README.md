@@ -9,10 +9,10 @@ sathanic md is Multi Device whatsapp bot based on malooty
 <hr>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=150&size=20&pause=500&color=5513F8&width=435&lines=SATHANIC+WA+BOT+BASED+ON+MALOOTY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=5&size=20&pause=400&color=5513F8&width=435&lines=SATHANIC+WA+BOT+BASED+ON+MALOOTY" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 
 [`ℹ️Contact Owner`](https://wa.me/919778158839)
 
