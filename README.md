@@ -14,3 +14,14 @@ sᴀᴛʜᴀɴɪᴄ ʙɢᴍ ʙᴏᴛ ɪs ᴍᴜʟᴛʏ ᴅᴇᴠɪᴄᴇ ᴡʜ�
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">[`ℹ️Contact Owner`](https://wa.me/919778158839)
 
 BOT COMING SOON 🔜 
+
+
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account in heroku.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+3. Now Deploy
+    <br>
+<a href='https://qr-dnpk.onrender.com/heroku.html' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
