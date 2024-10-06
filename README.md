@@ -1,4 +1,4 @@
-#### JARVIS MD WHATSAPP BOT
+#### SATHANIC MD WHATSAPP BOT
 sathanic md is Multi Device whatsapp bot based on malooty
 ***
 
@@ -9,7 +9,7 @@ sathanic md is Multi Device whatsapp bot based on malooty
 <hr>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=10&pause=500&color=5513F8&width=435&lines=SATHANIC+WA+BOT+BASED+ON+MALOOTY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=150&size=20&pause=500&color=5513F8&width=435&lines=SATHANIC+WA+BOT+BASED+ON+MALOOTY" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
