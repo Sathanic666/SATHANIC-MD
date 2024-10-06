@@ -19,7 +19,7 @@ function removeFile(FilePath){
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-        async function MALVIN_KING_PAIR_CODE() {
+        async function SATHANIC_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -73,11 +73,11 @@ router.get('/', async (req, res) => {
 ❻ || YouTube = https://youtube.com/@sathanic-f2p?si=FFRfk_Jo-0XxH4eG
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©2024-2099 ᴍᴀʟᴠɪɴ-ᴋɪɴɢ_`
- await Pair_Code_By_Sathanic.sendMessage(Pair_Code_By_Sathanic.user.id,{text:SATHANIC},{quoted:session})
+ await Pair_Code_By_Sathanic.sendMessage(Pair_Code_By_Sathanic_bgm_bot.user.id,{text:SATHANIC},{quoted:session})
  
 
         await delay(100);
-        await Pair_Code_By_Malvin_King.ws.close();
+        await Pair_Code_By_SATHANIC.ws.close();
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
