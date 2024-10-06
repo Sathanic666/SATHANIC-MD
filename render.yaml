@@ -1,0 +1,37 @@
+services:
+  - type: web
+    name: sathanic
+    env: node
+    branch: main
+    repo: https://github.com/Sathanic666/SATHANIC.git
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    autoDeploy: false
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: BOT_INFO
+        value: Sᴀᴛʜᴀɴɪᴄ;ᴍᴅ;https://imgur.com/a/sMZz1HP.mp4
+      - key: WARN_COUNT
+        value: 3
+      - key: AUTO_STATUS_VIEWS
+        value: false
+      - key: MEDIA_DATA
+        value: ʟɪꜱᴛ ᴍᴇɴᴜ;sᴀᴛʜᴀɴɪᴄ-ᴍᴅ;https://imgur.com/a/qJfySiD.jpeg
+      - key: HANDLER
+        value: /
+      - key: WORK_TYPE
+        value: private
+      - key: SERVER
+        value: render
+      - key: STICKER_PACKNAME
+        value: ʟᴏᴋɪ;xᴇʀ
+      - key: AUDIO_DATA
+        value: sᴀᴛʜᴀɴɪᴄ;ᴍᴅ;https://imgur.com/a/AsJuUK5.jpg
+      - key: SUDO
+        value: 917994128839
+      - key: SERVERURL
+        value:
+      - key: DATABASE_URL
+        sync: false
