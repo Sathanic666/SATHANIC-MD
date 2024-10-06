@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
 
                let SATHANIC_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃ᴍᴀʟᴠɪɴ-ᴍᴅ SESSION IS 
+┃SATHANIC SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ⚙️✔️
 ┗━━━━━━━━━━━━━━━
