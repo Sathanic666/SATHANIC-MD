@@ -1,4 +1,4 @@
-FROM quay.io/Sathanic666/sathanic:latest
+FROM quay.io/sathanic666/sathanic:latest
 RUN git clone https://github.com/Sathanic666/SATHANIC /root/sathanic666/
 WORKDIR /root/sathanic666/
 RUN yarn install --network-concurrency 1
