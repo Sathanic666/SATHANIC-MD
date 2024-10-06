@@ -14,6 +14,7 @@ sathanic md is Multi Device whatsapp bot based on malooty
 </a>
 <hr>
 
+[`ℹ️Contact Owner`](https://wa.me/919778158839)
 
 
 ###        BOT COMMING SOON
