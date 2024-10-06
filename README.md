@@ -9,7 +9,7 @@ sathanic md is Multi Device whatsapp bot based on malooty
 </p>
 
 <p align="center">
-<a href="https://github.com/VajiraTech">
+<a href="https://github.com/Sathanic666/SATHANIC-MD">
     <img src="https://ik.imagekit.io/eypz/1728213088407_EFJZ4fMXy.png"  width="700px">
 </a>
 <hr>
