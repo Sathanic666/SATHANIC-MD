@@ -11,6 +11,6 @@ sᴀᴛʜᴀɴɪᴄ ʙɢᴍ ʙᴏᴛ ɪs ᴍᴜʟᴛʏ ᴅᴇᴠɪᴄᴇ ᴡʜ�
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=5513F7&width=435&lines=SATHANIC+MD+BASED+ON+MALOOTY" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">[`ℹ️Contact Owner`](https://wa.me/263714757857)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">[`ℹ️Contact Owner`](https://wa.me/919778158839)
 
 BOT COMING SOON 🔜 
